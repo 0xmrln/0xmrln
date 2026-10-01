@@ -17,8 +17,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcl0103&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF0033&text_color=B3B3B3" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mcl0103&bg_color=0D0D0D&color=B3B3B3&line=FF0033&point=FFFFFF&area=true&area_color=FF0033&hide_border=true&title_color=FF0033" width="100%" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0033,100:000000&height=4&section=footer" width="100%" />
