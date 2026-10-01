@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xmrln/0xmrln/output/snake-red.svg" alt="snake" width="100%" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:3B0000,100:FF0033&height=200&section=header&text=0xmrln&fontSize=60&fontColor=FF0033&stroke=FF0033&strokeWidth=1&animation=twinkling" width="100%" />
 
 <p align="center">
